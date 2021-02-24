@@ -1,3 +1,5 @@
+# Performance Experiment
+
 HashMap insert (milliseconds)	243	460	543	1268	763	969	1387	1235	1052	2068	
 HashMap find (milliseconds)	32	61	79	110	182	365	253	327	245	146	
 HashMap sort (milliseconds)	373	646	805	982	1341	1490	1721	2274	2534	2659	
