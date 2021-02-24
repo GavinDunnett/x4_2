@@ -1,0 +1,8 @@
+HashMap insert (milliseconds)	243	460	543	1268	763	969	1387	1235	1052	2068	
+HashMap find (milliseconds)	32	61	79	110	182	365	253	327	245	146	
+HashMap sort (milliseconds)	373	646	805	982	1341	1490	1721	2274	2534	2659	
+HashMap delete (milliseconds)	40	54	68	67	91	108	78	87	95	144	
+TreeSet insert (milliseconds)	762	2000	3322	3935	6609	6275	6833	8415	8817	9178	
+TreeSet find (milliseconds)	67	130	182	652	488	599	675	701	818	841	
+TreeSet sort (milliseconds)	37	45	59	72	91	112	140	161	193	214	
+TreeSet delete (milliseconds)	75	128	170	423	302	315	405	463	513	534	
